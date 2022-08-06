@@ -13,7 +13,7 @@
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
     "skyapm-nodejs": "^2.0.1",
-    "skywalking-backend-js": "^0.1.0",
+    "skywalking-backend-js": "^0.5.1",
     "skywalking-nodejs": "^0.3.3"
   }
 }
